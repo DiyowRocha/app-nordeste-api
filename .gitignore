@@ -1,0 +1,37 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+.Python
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+
+# Variáveis de ambiente (nunca versionar credenciais)
+.env
+
+# Alembic
+# alembic/versions/*.py  # manter migrations versionadas
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
