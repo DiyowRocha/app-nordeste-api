@@ -7,7 +7,7 @@ Suporta múltiplos canais (APP, TOTEM, BALCÃO, PICKUP, WEB), gestão de pedidos
 
 | Recurso | URL |
 |---|---|
-| Repositório | _a preencher após push_ |
+| Repositório | https://github.com/DiyowRocha/app-nordeste-api |
 | Swagger UI (local) | http://localhost:8000/docs |
 | ReDoc (local) | http://localhost:8000/redoc |
 | Coleção Postman | [`postman/nordeste-api.postman_collection.json`](postman/nordeste-api.postman_collection.json) |
