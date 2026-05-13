@@ -1,4 +1,4 @@
-# API Raízes do Nordeste
+# API Raízes do Nordeste - Projeto Final do Curso de Análise e Desenvolvimento de Sistemas
 
 API REST para gerenciamento da rede de lanchonetes **Raízes do Nordeste**.  
 Suporta múltiplos canais (APP, TOTEM, BALCÃO, PICKUP, WEB), gestão de pedidos, estoque por unidade, fidelização e pagamento mock.
